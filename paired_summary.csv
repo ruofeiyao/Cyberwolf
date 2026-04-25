@@ -1,0 +1,13 @@
+game_id_s,seed,prompt_style_s,winner_s,rounds_s,seer_claimed_s,doctor_publicly_identified_s,no_kill_nights_s,total_holds_s,first_elimination_player_s,first_elimination_role_s,game_id_n,prompt_style_n,winner_n,rounds_n,seer_claimed_n,doctor_publicly_identified_n,no_kill_nights_n,total_holds_n,first_elimination_player_n,first_elimination_role_n,winner_flip,holds_diff,rounds_diff,no_kill_diff
+d940b587,5682558,strategic,WOLVES_WIN,2,True,False,0,4,P5,VILLAGER,1422383d,neutral,WOLVES_WIN,3,False,True,1,3,P2,SEER,False,-1,1,1
+df2961cc,1200340,strategic,WOLVES_WIN,2,False,False,1,2,P3,SEER,1ba3715f,neutral,WOLVES_WIN,5,False,False,2,15,P3,SEER,False,13,3,1
+5f85b022,8087954,strategic,WOLVES_WIN,2,False,False,0,1,P2,VILLAGER,5651aa4f,neutral,VILLAGERS_WIN,3,False,False,1,5,P5,WOLF,True,4,1,1
+01df074b,6299577,strategic,VILLAGERS_WIN,3,False,False,0,4,P3,WOLF,1ff4b204,neutral,WOLVES_WIN,3,False,False,1,9,P4,VILLAGER,True,5,0,1
+9e483985,5983252,strategic,VILLAGERS_WIN,3,True,False,2,0,P1,VILLAGER,3ff2268b,neutral,WOLVES_WIN,2,False,False,0,0,P2,SEER,True,0,-1,-2
+950efb61,887829,strategic,VILLAGERS_WIN,2,True,False,1,0,P0,WOLF,0aa958b2,neutral,WOLVES_WIN,4,False,False,2,4,P4,SEER,True,4,2,1
+5278a5f4,1873482,strategic,WOLVES_WIN,2,False,False,0,0,P1,VILLAGER,3c51e56e,neutral,WOLVES_WIN,5,False,False,3,9,P1,VILLAGER,False,9,3,3
+ccbee285,5199154,strategic,WOLVES_WIN,4,False,False,2,1,P3,WOLF,1148ba9c,neutral,VILLAGERS_WIN,3,True,False,2,6,P4,WOLF,True,5,-1,0
+73dfc367,2676392,strategic,WOLVES_WIN,3,True,False,1,5,P1,VILLAGER,b1dc9389,neutral,WOLVES_WIN,2,False,False,1,0,P4,SEER,False,-5,-1,0
+9afbcccf,2184945,strategic,WOLVES_WIN,2,False,False,0,2,P6,SEER,b402e3f5,neutral,VILLAGERS_WIN,2,True,False,1,0,P3,WOLF,True,-2,0,1
+03e12126,7242578,strategic,WOLVES_WIN,4,False,True,1,2,P4,VILLAGER,ad99d733,neutral,WOLVES_WIN,3,False,False,0,0,P5,SEER,False,-2,-1,-1
+f7b1306c,2283728,strategic,VILLAGERS_WIN,3,False,False,2,4,P4,WOLF,131e1d4b,neutral,VILLAGERS_WIN,4,False,False,1,10,P4,WOLF,False,6,1,-1

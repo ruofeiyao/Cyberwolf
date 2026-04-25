@@ -1,0 +1,13 @@
+game_id,seed,winner,rounds,seer_alive_round1,seer_claimed,doctor_publicly_identified,no_kill_nights,total_holds,first_elimination_player,first_elimination_role,first_elimination_round,main_turning_point
+01df074b,6299577,VILLAGERS_WIN,3,True,False,False,0,4,P3,WOLF,2,
+03e12126,7242578,WOLVES_WIN,5,True,False,True,1,2,P4,VILLAGER,1,a no-kill night created ambiguity
+5278a5f4,1873482,WOLVES_WIN,2,True,False,False,0,0,P1,VILLAGER,1,
+5f85b022,8087954,WOLVES_WIN,2,True,False,False,0,1,P2,VILLAGER,1,
+73dfc367,2676392,WOLVES_WIN,3,True,True,False,1,5,P1,VILLAGER,2,a no-kill night created ambiguity
+950efb61,887829,VILLAGERS_WIN,2,True,True,False,1,0,P0,WOLF,1,a no-kill night created ambiguity
+9afbcccf,2184945,WOLVES_WIN,2,True,False,False,0,2,P6,SEER,1,
+9e483985,5983252,VILLAGERS_WIN,3,True,True,False,2,0,P1,VILLAGER,1,a no-kill night created ambiguity
+ccbee285,5199154,WOLVES_WIN,5,True,False,True,2,1,P3,WOLF,1,a no-kill night created ambiguity
+d940b587,5682558,WOLVES_WIN,2,True,True,False,0,4,P5,VILLAGER,1,
+df2961cc,1200340,WOLVES_WIN,3,True,False,False,1,2,P3,SEER,1,a no-kill night created ambiguity
+f7b1306c,2283728,VILLAGERS_WIN,3,True,False,False,2,4,P4,WOLF,2,a no-kill night created ambiguity
